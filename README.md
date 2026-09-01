@@ -12,9 +12,9 @@
 
 * 📝 I regularly write articles on **LinkedIn**
 
-* 💬 Ask me about **React, TypeScript and JavaScript**
+* 💬 Ask me about **HTML, CSS, JavaScript, React and TypeScript**
 
-* 📫 How to reach me **fahimrahat58@gmail.com**
+* 📫 How to reach me **[fahimrahat58@gmail.com](mailto:fahimrahat58@gmail.com)**
 
 * ⚡ Fun fact **💻 I don't just learn to code — I learn by building, breaking, and fixing things. 🚀**
 
@@ -23,15 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/fahim-muntasir-rahat-46ba6b2a7/" target="_blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="Fahim Muntasir Rahat LinkedIn" 
-      height="30" 
-      width="40" 
-    />
-  </a>
+<a href="https://linkedin.com/in/fahim-muntasir-rahat-46ba6b2a7/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fahim Muntasir Rahat LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <br>
@@ -43,29 +37,23 @@
 <h3>Languages:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
-<h3>CSS Frameworks & Libraries:</h3>
+<h3>Frontend:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
-<h3>JavaScript Frameworks & Libraries:</h3>
+<h3>CMS & Tools:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github" />
 </p>
 
-<h3>Database & Model:</h3>
+<h3>Currently Learning:</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,supabase" />
-</p>
-
-<h3>Deployment Platform:</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github" />
+  <img src="https://skillicons.dev/icons?i=react,typescript" />
 </p>
