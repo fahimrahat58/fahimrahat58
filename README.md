@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2009_27_23%20PM.png" alt="Fahim Muntasir Rahat Banner" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2009_27_23%20PM.png" 
+    alt="Fahim Muntasir Rahat Banner" 
+    width="100%" 
+  />
 </div>
 
 <h1 align="center">Hi, I'm Fahim Muntasir Rahat</h1>
@@ -10,7 +14,8 @@
 
 * 🌱 I’m currently learning **React and TypeScript**
 
-* 📝 I regularly write articles on **LinkedIn**
+* 📝 I regularly write articles on 
+  **[LinkedIn](https://www.linkedin.com/in/fahim-muntasir-rahat-46ba6b2a7/)**
 
 * 💬 Ask me about **HTML, CSS, JavaScript, React and TypeScript**
 
@@ -23,9 +28,18 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/fahim-muntasir-rahat-46ba6b2a7/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fahim Muntasir Rahat LinkedIn" height="30" width="40" />
-</a>
+  <a 
+    href="https://linkedin.com/in/fahim-muntasir-rahat-46ba6b2a7/" 
+    target="_blank"
+  >
+    <img 
+      align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="Fahim Muntasir Rahat LinkedIn" 
+      height="30" 
+      width="40" 
+    />
+  </a>
 </p>
 
 <br>
@@ -44,16 +58,4 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-<h3>CMS & Tools:</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,git,github" />
-</p>
-
-<h3>Currently Learning:</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript" />
 </p>
