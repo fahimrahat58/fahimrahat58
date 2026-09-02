@@ -29,7 +29,9 @@
 <h2>📊 GitHub Stats</h2>
 <hr />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrahat58&" alt="fahimrahat58" /></p>
-## 💬 Random Dev Quote
+
+<h2>✍️ Random Dev Quote</h2>
+<hr />
 
 <p align="center">
   <img 
