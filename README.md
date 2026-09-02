@@ -30,6 +30,7 @@
 <hr />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrahat58&" alt="fahimrahat58" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fahimrahat58=your-github-username&theme=synthwave&layout=compact)
   <h2>My Contributions</h2>
 
 <p align="center">
