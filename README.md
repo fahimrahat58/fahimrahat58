@@ -28,12 +28,23 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrahat58&" alt="fahimrahat58" /></p>
----
-
-## 🐍 My Contributions
+<h2>🐍 My Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/output/github-contribution-grid-snake-dark.svg"
+    />
 
----
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
