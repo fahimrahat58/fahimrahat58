@@ -2,7 +2,7 @@
   <img src="https://github.com/fahimrahat58/fahimrahat58/blob/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2009_27_23%20PM.png" alt="Fahim Muntasir Rahat - Frontend Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Fahim Muntasir Rahat</h1>
+<h1 align="center"> Hi 👋, I'm Fahim Muntasir Rahat</h1>
 <h3 align="center">Aspiring Frontend Developer</h3>
 
 - 🌱 I’m currently learning **React and TypeScript**
