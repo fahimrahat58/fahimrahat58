@@ -30,6 +30,16 @@
 <hr />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimrahat58&" alt="fahimrahat58" /></p>
 
+
+<h2> My Contributions</h2>
+<hr />
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
+</p>
+
 <h2>✍️ Random Dev Quote</h2>
 <hr />
 
@@ -37,12 +47,6 @@
   <img 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave"
     alt="Random Dev Quote"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/fahimrahat58/fahimrahat58/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
   />
 </p>
 
