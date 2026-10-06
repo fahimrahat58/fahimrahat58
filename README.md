@@ -24,7 +24,7 @@
 
 <p>
   📝 I regularly write articles on
-  <a href="www.linkedin.com/in/fahim-rahat" target="_blank">
+  <a href="https://www.linkedin.com/in/fahim-rahat/?isSelfProfile=true" target="_blank">
     LinkedIn
   </a>
 </p>
