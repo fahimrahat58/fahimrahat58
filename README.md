@@ -1,25 +1,22 @@
+```html
 <p align="center">
   <img
     src="https://github.com/fahimrahat58/fahimrahat58/blob/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2009_27_23%20PM.png"
-    alt="Fahim Muntasir Rahat - Frontend Developer"
+    alt="Fahim Muntasir Rahat - Web Developer"
     width="100%"
   />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fahim Muntasir Rahat</h1>
 
-<h3 align="center">Aspiring Frontend Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
-  <strong>Building. Breaking. Fixing. Learning. 🚀</strong>
+  <strong>Building. Breaking. Fixing. 🚀</strong>
 </p>
 
 <p>
-  🌱 I’m currently learning <strong>React, TypeScript, Next.js and Authentication</strong>
-</p>
-
-<p>
-  🔐 Currently exploring <strong>Better Auth, MongoDB and Secure Authentication</strong>
+  🔐 Experienced with <strong>Better Auth, MongoDB and Secure Authentication</strong>
 </p>
 
 <p>
@@ -40,7 +37,7 @@
 
 <p>
   ⚡ Fun fact:
-  <strong>💻 I don't just learn to code — I learn by building, breaking, and fixing things. 🚀</strong>
+  <strong>💻 I learn by building, breaking, and fixing things. 🚀</strong>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -64,124 +61,51 @@
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="CSS3"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="HTML5"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="TypeScript"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
-
 </p>
 
 <h3 align="left">JavaScript Frameworks & Libraries:</h3>
 
 <p align="left">
-
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
-
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-      alt="Next.js"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
   </a>
-
 </p>
 
 <h3 align="left">CSS Frameworks & Libraries:</h3>
 
 <p align="left">
-
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="Tailwind CSS"
-      width="40"
-      height="40"
-    />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
-
 </p>
 
 <h3 align="left">Authentication & Backend:</h3>
 
 <p align="left">
-
   <a href="https://www.better-auth.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/betterauth/FFFFFF"
-      alt="Better Auth"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.simpleicons.org/betterauth/FFFFFF" alt="Better Auth" width="40" height="40" />
   </a>
-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="MongoDB"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/jsonwebtokens"
-      alt="Authentication"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="Authentication" width="40" height="40" />
   </a>
-
-</p>
-
-<h3 align="left">Currently Exploring:</h3>
-
-<p align="left">
-  🔐 Better Auth &nbsp;&nbsp;
-  🗄️ MongoDB &nbsp;&nbsp;
-  🔑 Session Management &nbsp;&nbsp;
-  🛡️ Protected Routes
 </p>
 
 <h2>📊 GitHub Stats</h2>
@@ -216,3 +140,4 @@
     alt="Random Dev Quote"
   />
 </p>
+```
