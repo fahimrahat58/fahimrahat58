@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/fahimrahat58/fahimrahat58/blob/main/ChatGPT%20Image%20Sep%201%2C%202026%2C%2009_27_23%20PM.png"
+    src="https://github.com/fahimrahat58/fahimrahat58/blob/main/Gemini_Generated_Image_6alr4l6alr4l6alr.jpg"
     alt="Fahim Muntasir Rahat - Web Developer"
     width="100%"
   />
