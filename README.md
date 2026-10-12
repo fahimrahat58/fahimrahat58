@@ -41,7 +41,7 @@
   
 <p align="left">
   🌐 <strong>Portfolio:</strong>
-  <a href="https://fahimrahat58.vercel.app/" target="_blank">
+  <a href="https://fahim58.vercel.app/" target="_blank">
     Visit My Portfolio 🚀
   </a>
 </p>
