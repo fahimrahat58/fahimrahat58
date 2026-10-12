@@ -39,7 +39,7 @@
   ⚡ Fun fact:
   <strong>💻 I learn by building, breaking, and fixing things. 🚀</strong>
   
-<p align="center">
+<p align="left">
   🌐 <strong>Portfolio:</strong>
   <a href="https://fahimrahat58.vercel.app/" target="_blank">
     Visit My Portfolio 🚀
