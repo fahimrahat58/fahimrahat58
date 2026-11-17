@@ -109,7 +109,7 @@
   </a>
 </p>
 
-<h3 align="left">Authentication, Security & Payments:</h3>
+<h3 align="left">Authentication & Security </h3>
 
 <p align="left">
   <a href="https://www.better-auth.com/" target="_blank" rel="noreferrer">
@@ -118,10 +118,7 @@
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/jsonwebtokens" alt="JWT" width="40" height="40" />
   </a>
-  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="40" height="40" />
-  </a>
-</p>
+  </p>
 
 <h3 align="left">Payment Integration:</h3>
 
@@ -134,15 +131,7 @@
       height="40"
     />
   </a>
-  <a href="https://stripe.com/docs/webhooks" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.simpleicons.org/webhook/7952B3"
-      alt="Webhooks"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+ </p>
 
 <h3 align="left">Tools & Platforms:</h3>
 
